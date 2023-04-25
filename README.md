@@ -9,3 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![LucaWinds' github stats](https://github-readme-stats.vercel.app/api?username=LucaWinds&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaWinds&layout=compact&theme=tokyonight)
