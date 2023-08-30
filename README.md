@@ -17,19 +17,19 @@ Also, I am a member of a team “0-inf”. We makes something weird.
 <div class="portfolio">
   <h2 align='center'>My Archives</h1>
   <ul>
-    <li><a href="https://github.com/LucaWinds/SolvedBaekjoonProblem">SolvedBaekjoonProblem</a>:My Solutions of BaekjoonProblem.</li>
-    <li><a href="https://github.com/LucaWinds/ARTIST_AISociety_activity_data">ARTIST data</a>:AI Society, ARTIST's activity data.</li>
-    <li><a href="https://github.com/LucaWinds/GSA2022RNE">GSA2022RNE</a>:Python Newbies' chatbot development.</li>
+    <li><a href="https://github.com/LucaWinds/SolvedBaekjoonProblem">SolvedBaekjoonProblem</a> : My Solutions of BaekjoonProblem.</li>
+    <li><a href="https://github.com/LucaWinds/ARTIST_AISociety_activity_data">ARTIST data</a> : AI Society, ARTIST's activity data.</li>
+    <li><a href="https://github.com/LucaWinds/GSA2022RNE">GSA2022RNE</a> : Python Newbies' chatbot development.</li>
   </ul>
   <h2 align='center'>My Cute Projects</h1>
   <ul>
-    <li><a href=""></a>:</li>
-    <li><a href="https://github.com/LucaWinds/WordDifficultyModel">WordDifficultyModel</a>:WordDifficultyModel with word2Vec</li>
-    <li><a href="https://github.com/LucaWinds/Project_MaskDetection">MaskDetection</a>:MaskDetection with CNN</li>
-    <li><a href="https://github.com/LucaWinds/SentenceClassfication-using-Bayes-Fillter">:SentenceClassfication</a>:SentenceClassfication with Bayes Filter</li>
-    <li><a href="https://github.com/LucaWinds/FaceEmotionClassifier">FaceEmotionClassifier</a>:FaceEmotionClassifier with CNN</li>
-    <li><a href="https://github.com/LucaWinds/DAW-with-C">DAW-with-C</a>:I tried to make DAW with native C, but it was not sucessful.</li>
-    <li><a href="https://github.com/LucaWinds/Tetris-With-C">Tetris-with-C</a>:I tried to make Tetris with native C, but it has few bugs.</li>
+    <li><a href="https://github.com/LucaWinds/PneumoniaClassifier">PneumoniaClassifier</a> : PneumoniaClassifier with Ensemble method. (5 different models included.)</li>
+    <li><a href="https://github.com/LucaWinds/WordDifficultyModel">WordDifficultyModel</a> : WordDifficultyModel with word2Vec</li>
+    <li><a href="https://github.com/LucaWinds/Project_MaskDetection">MaskDetection</a> : MaskDetection with CNN</li>
+    <li><a href="https://github.com/LucaWinds/SentenceClassfication-using-Bayes-Fillter"> : SentenceClassfication</a>:SentenceClassfication with Bayes Filter</li>
+    <li><a href="https://github.com/LucaWinds/FaceEmotionClassifier">FaceEmotionClassifier</a> : FaceEmotionClassifier with CNN</li>
+    <li><a href="https://github.com/LucaWinds/DAW-with-C">DAW-with-C</a> : I tried to make DAW with native C, but it was not sucessful.</li>
+    <li><a href="https://github.com/LucaWinds/Tetris-With-C">Tetris-with-C</a> : I tried to make Tetris with native C, but it has few bugs.</li>
     <li><a href=""></a>:</li>
     <li><a href=""></a>:</li>
   </ul>
