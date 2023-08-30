@@ -2,7 +2,7 @@
 <p align='center'> Contact Me And My Team Members </p>
 <p align='center'>
   <a href="mailto:buttermorpho11@gmail.com">
-    <img src="https://img.shields.io/badge/EMail%20-%23DAC3FA.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMail%20-%23BFF4FF.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="https://github.com/0-inf">
     <img src="https://img.shields.io/badge/ZERO%20TO%20INF%20-%23000000.svg?&style=for-the-badge&&logoColor=white"/>
