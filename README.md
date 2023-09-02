@@ -36,7 +36,7 @@ Also, I am a member of a team “0-inf”. We makes something weird.
 </div>
 <h2 align='center'>Still Interested In Me?</h2>
 <p align='center'>
-  <a href="https://www.soundcloud.com/sephyr-06/">
+  <a href="https://www.soundcloud.com/sephyr_06/">
     <img src="https://img.shields.io/badge/-SoundCloud-FF7F00?style=flat&logo=soundcloud&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCfrfmPSPXdQ2koJJQLxCUOQ">
