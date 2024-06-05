@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align='center'>
-I am not only programming beginner, but also beginner musician.
+Making what I want, even if it is not useful.
 </p>
 <p align='center'>
 Also, I am a member of a team “0-inf”. We makes something weird.
@@ -41,5 +41,8 @@ Also, I am a member of a team “0-inf”. We makes something weird.
   </a>
   <a href="https://www.youtube.com/channel/UCfrfmPSPXdQ2koJJQLxCUOQ">
     <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCcPxWb5CzTd8oYffY7EaaxQ">
+    <img src="https://img.shields.io/badge/-Youtube-000000?style=flat&logo=youtube&logoColor=red"/>
   </a>
 </p>
